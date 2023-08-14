@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91490983625",
+    "project_id": "previsao-afef1",
+    "storage_bucket": "previsao-afef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91490983625:android:55aec7505668fe17383718",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91490983625-pp1lu8sn69oerlnpfnjt3cfjrr4gcib3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-I8JfckdeBwhjMYuHi2RMd26IWX0vbIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91490983625-pp1lu8sn69oerlnpfnjt3cfjrr4gcib3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
